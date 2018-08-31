@@ -649,10 +649,7 @@ void exit_handler( int s )
         deinitDebug();
 
         int exit_status = 0;
-        if( g != NULL ) {
-            delete g;
-        }
-
+        
         catacurses::endwin();
 
         exit( exit_status );

@@ -180,10 +180,10 @@ void set_language()
     if( !FILENAMES["base_path"].empty() ) {
         locale_dir = FILENAMES["base_path"] + "share/locale";
     } else {
-        locale_dir = "lang/mo";
+        locale_dir = "data/lang/mo";
     }
 #else
-    locale_dir = "lang/mo";
+    locale_dir = "data/lang/mo";
 #endif // __linux__
 
     const char *locale_dir_char = locale_dir.c_str();
