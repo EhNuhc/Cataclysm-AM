@@ -20,7 +20,7 @@ Please see [CONTRIBUTING.md](https://github.com/Cataclysm-Aftermath/Cataclysm-AM
 ## Community
 
 IRC:
-irc.freenode.net ; #CataclysmDDA
+irc.freenode.net ; #CataclysmAM
 http://webchat.freenode.net/?channels=#CataclysmAM
 
 ## Frequently Asked Questions
