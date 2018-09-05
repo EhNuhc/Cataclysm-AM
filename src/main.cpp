@@ -17,10 +17,6 @@
 #include "main_menu.h"
 #include "loading_ui.h"
 
-#include "ui/ui_config.h"
-
-#include "entt/signal/sigh.hpp"
-
 #include <cstring>
 #include <ctime>
 #include <locale>
